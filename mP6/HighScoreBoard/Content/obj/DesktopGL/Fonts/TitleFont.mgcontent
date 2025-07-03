@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Minor/mP6/HighScoreBoard/Content/Fonts/TitleFont.spritefont</SourceFile>
+  <SourceTime>2024-10-05T15:23:29.9018015-04:00</SourceTime>
+  <DestFile>C:/Users/trend/OneDrive/Desktop/ICS/assignments/Minor/mP6/HighScoreBoard/bin/Debug/Content/Fonts/TitleFont.xnb</DestFile>
+  <DestTime>2024-10-05T15:23:43.1747389-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2024-10-01T09:04:26.463006-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2024-10-01T09:04:26.463006-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

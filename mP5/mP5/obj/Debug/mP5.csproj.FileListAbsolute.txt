@@ -1,0 +1,7 @@
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Minor\mP5\mP5\bin\Debug\mP5.exe.config
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Minor\mP5\mP5\bin\Debug\mP5.exe
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Minor\mP5\mP5\bin\Debug\mP5.pdb
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Minor\mP5\mP5\obj\Debug\mP5.csproj.AssemblyReference.cache
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Minor\mP5\mP5\obj\Debug\mP5.csproj.CoreCompileInputs.cache
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Minor\mP5\mP5\obj\Debug\mP5.exe
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Minor\mP5\mP5\obj\Debug\mP5.pdb

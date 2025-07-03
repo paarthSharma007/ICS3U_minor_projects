@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\assignments\\Minor\\mP9\\Calculatron\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC74FAB-89CC-4A67-AF2E-5872ED9C2802}|Calculatron.csproj|c:\\users\\trend\\onedrive\\desktop\\ics\\assignments\\minor\\mp9\\calculatron\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC74FAB-89CC-4A67-AF2E-5872ED9C2802}|Calculatron.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\assignments\\Minor\\mP9\\Calculatron\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\assignments\\Minor\\mP9\\Calculatron\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T01:44:21.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

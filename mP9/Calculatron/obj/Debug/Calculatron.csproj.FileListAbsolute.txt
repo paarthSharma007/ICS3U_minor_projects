@@ -1,0 +1,7 @@
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Minor\mP9\Calculatron\bin\Debug\Calculatron.exe.config
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Minor\mP9\Calculatron\bin\Debug\Calculatron.exe
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Minor\mP9\Calculatron\bin\Debug\Calculatron.pdb
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Minor\mP9\Calculatron\obj\Debug\Calculatron.csproj.AssemblyReference.cache
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Minor\mP9\Calculatron\obj\Debug\Calculatron.csproj.CoreCompileInputs.cache
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Minor\mP9\Calculatron\obj\Debug\Calculatron.exe
+C:\Users\trend\OneDrive\Desktop\ICS\assignments\Minor\mP9\Calculatron\obj\Debug\Calculatron.pdb

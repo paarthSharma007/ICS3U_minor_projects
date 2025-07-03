@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\assignments\\Minor\\mP6\\HighScoreBoard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0CE2C6-73AF-4613-B440-841F9882F36D}|HighScoreBoard.csproj|c:\\users\\trend\\onedrive\\desktop\\ics\\assignments\\minor\\mp6\\highscoreboard\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0CE2C6-73AF-4613-B440-841F9882F36D}|HighScoreBoard.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0CE2C6-73AF-4613-B440-841F9882F36D}|HighScoreBoard.csproj|c:\\users\\trend\\onedrive\\desktop\\ics\\assignments\\minor\\mp6\\highscoreboard\\content\\fonts\\titlefont.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B0CE2C6-73AF-4613-B440-841F9882F36D}|HighScoreBoard.csproj|solutionrelative:content\\fonts\\titlefont.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0CE2C6-73AF-4613-B440-841F9882F36D}|HighScoreBoard.csproj|c:\\users\\trend\\onedrive\\desktop\\ics\\assignments\\minor\\mp6\\highscoreboard\\content\\fonts\\messagefont.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B0CE2C6-73AF-4613-B440-841F9882F36D}|HighScoreBoard.csproj|solutionrelative:content\\fonts\\messagefont.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\assignments\\Minor\\mP6\\HighScoreBoard\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\assignments\\Minor\\mP6\\HighScoreBoard\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwFMAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:23:50.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TitleFont.spritefont",
+              "DocumentMoniker": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\assignments\\Minor\\mP6\\HighScoreBoard\\Content\\Fonts\\TitleFont.spritefont",
+              "RelativeDocumentMoniker": "Content\\Fonts\\TitleFont.spritefont",
+              "ToolTip": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\assignments\\Minor\\mP6\\HighScoreBoard\\Content\\Fonts\\TitleFont.spritefont",
+              "RelativeToolTip": "Content\\Fonts\\TitleFont.spritefont",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-05T19:22:36.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageFont.spritefont",
+              "DocumentMoniker": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\assignments\\Minor\\mP6\\HighScoreBoard\\Content\\Fonts\\MessageFont.spritefont",
+              "RelativeDocumentMoniker": "Content\\Fonts\\MessageFont.spritefont",
+              "ToolTip": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\assignments\\Minor\\mP6\\HighScoreBoard\\Content\\Fonts\\MessageFont.spritefont",
+              "RelativeToolTip": "Content\\Fonts\\MessageFont.spritefont",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-05T19:22:36.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

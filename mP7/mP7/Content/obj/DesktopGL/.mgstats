@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/trend/OneDrive/Desktop/ICS/assignments/Minor/mP7/mP7/Content/Images/background.png","C:/Users/trend/OneDrive/Desktop/ICS/assignments/Minor/mP7/mP7/bin/Debug/Content/Images/background.xnb","TextureProcessor","Texture2DContent",178616,8294485,0.629483
+"C:/Users/trend/OneDrive/Desktop/ICS/assignments/Minor/mP7/mP7/Content/Images/BeachBall.png","C:/Users/trend/OneDrive/Desktop/ICS/assignments/Minor/mP7/mP7/bin/Debug/Content/Images/BeachBall.xnb","TextureProcessor","Texture2DContent",11570,160085,0.0178667
