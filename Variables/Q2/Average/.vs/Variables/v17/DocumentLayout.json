@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\Practice\\Variables\\Q2\\Variables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20EEE782-485D-4250-931B-C5AA1F901948}|Variables.csproj|c:\\users\\trend\\onedrive\\desktop\\ics\\practice\\variables\\q2\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EEE782-485D-4250-931B-C5AA1F901948}|Variables.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\Practice\\Variables\\Q2\\Variables\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\trend\\OneDrive\\Desktop\\ICS\\Practice\\Variables\\Q2\\Variables\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:34:46.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

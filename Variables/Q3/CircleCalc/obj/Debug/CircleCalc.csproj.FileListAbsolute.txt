@@ -1,0 +1,7 @@
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Variables\Q3\CircleCalc\bin\Debug\CircleCalc.exe.config
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Variables\Q3\CircleCalc\bin\Debug\CircleCalc.exe
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Variables\Q3\CircleCalc\bin\Debug\CircleCalc.pdb
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Variables\Q3\CircleCalc\obj\Debug\CircleCalc.csproj.AssemblyReference.cache
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Variables\Q3\CircleCalc\obj\Debug\CircleCalc.csproj.CoreCompileInputs.cache
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Variables\Q3\CircleCalc\obj\Debug\CircleCalc.exe
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Variables\Q3\CircleCalc\obj\Debug\CircleCalc.pdb

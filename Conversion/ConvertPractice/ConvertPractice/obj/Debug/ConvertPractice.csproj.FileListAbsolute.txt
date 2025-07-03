@@ -1,0 +1,14 @@
+C:\Users\trevo\Desktop\DELETEME\ICS3\ConvertPractice\ConvertPractice\bin\Debug\ConvertPractice.exe.config
+C:\Users\trevo\Desktop\DELETEME\ICS3\ConvertPractice\ConvertPractice\bin\Debug\ConvertPractice.exe
+C:\Users\trevo\Desktop\DELETEME\ICS3\ConvertPractice\ConvertPractice\bin\Debug\ConvertPractice.pdb
+C:\Users\trevo\Desktop\DELETEME\ICS3\ConvertPractice\ConvertPractice\obj\Debug\ConvertPractice.csprojAssemblyReference.cache
+C:\Users\trevo\Desktop\DELETEME\ICS3\ConvertPractice\ConvertPractice\obj\Debug\ConvertPractice.csproj.CoreCompileInputs.cache
+C:\Users\trevo\Desktop\DELETEME\ICS3\ConvertPractice\ConvertPractice\obj\Debug\ConvertPractice.exe
+C:\Users\trevo\Desktop\DELETEME\ICS3\ConvertPractice\ConvertPractice\obj\Debug\ConvertPractice.pdb
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Homework\Conversion\ConvertPractice\ConvertPractice\bin\Debug\ConvertPractice.exe.config
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Homework\Conversion\ConvertPractice\ConvertPractice\bin\Debug\ConvertPractice.exe
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Homework\Conversion\ConvertPractice\ConvertPractice\bin\Debug\ConvertPractice.pdb
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Homework\Conversion\ConvertPractice\ConvertPractice\obj\Debug\ConvertPractice.csproj.AssemblyReference.cache
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Homework\Conversion\ConvertPractice\ConvertPractice\obj\Debug\ConvertPractice.csproj.CoreCompileInputs.cache
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Homework\Conversion\ConvertPractice\ConvertPractice\obj\Debug\ConvertPractice.exe
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Homework\Conversion\ConvertPractice\ConvertPractice\obj\Debug\ConvertPractice.pdb

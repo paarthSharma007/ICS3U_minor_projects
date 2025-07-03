@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/Practice/Homework/MonoGraphicsPractice/Content/Fonts/HighScoreFont.spritefont</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/Practice/Homework/MonoGraphicsPractice/Content/Fonts/ScoreFont.spritefont</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/Practice/Homework/MonoGraphicsPractice/Content/Images/Galga_background.png</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/Practice/Homework/MonoGraphicsPractice/Content/Images/Galga_enemy1.png</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/Practice/Homework/MonoGraphicsPractice/Content/Images/Galga_enemy2.png</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/Practice/Homework/MonoGraphicsPractice/Content/Images/Galga_playerLives.png</File>
+    <File>C:/Users/trend/OneDrive/Desktop/ICS/Practice/Homework/MonoGraphicsPractice/Content/Images/Galga_tags.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

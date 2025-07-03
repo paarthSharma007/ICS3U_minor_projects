@@ -1,0 +1,7 @@
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Variables\Q2\Variables\bin\Debug\Variables.exe.config
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Variables\Q2\Variables\bin\Debug\Variables.exe
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Variables\Q2\Variables\bin\Debug\Variables.pdb
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Variables\Q2\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Variables\Q2\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Variables\Q2\Variables\obj\Debug\Variables.exe
+C:\Users\trend\OneDrive\Desktop\ICS\Practice\Variables\Q2\Variables\obj\Debug\Variables.pdb

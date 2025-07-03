@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/trend/OneDrive/Desktop/ICS/Practice/Homework/SoundTimersDemo/SoundTimersStarter/Content/Fonts/MessageFont.spritefont</SourceFile>
+  <SourceTime>2024-10-29T18:27:07.9540182-04:00</SourceTime>
+  <DestFile>C:/Users/trend/OneDrive/Desktop/ICS/Practice/Homework/SoundTimersDemo/SoundTimersStarter/bin/Debug/Content/Fonts/MessageFont.xnb</DestFile>
+  <DestTime>2024-10-29T18:38:40.1340496-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2024-10-01T09:04:26.463006-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2024-10-01T09:04:26.463006-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
